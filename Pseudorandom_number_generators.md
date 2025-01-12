@@ -1,5 +1,7 @@
 # Review: Principles and Applications of Pseudorandom Number Generators
 
+吴鎏亿 12310220
+
 ## 一、引入 Introduction
 
 ​	随机数在日常生活和科学研究中扮演着重要角色。它们在密码学、游戏开发和数据分析等多个领域至关重要。尽管我们经常需要随机数，但我们通常生成的是伪随机数。这些数字乍看起来似乎是随机的，但实际上它们是由算法确定的，因此具有一定的模式，理论上是可以被破解的。
